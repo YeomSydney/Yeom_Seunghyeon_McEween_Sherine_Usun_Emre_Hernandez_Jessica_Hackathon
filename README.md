@@ -1,10 +1,27 @@
-# Hackathon_2022_Fall
+# Hackathon
 
-## Collaborator
-- Seunghyeon Yeom: role
-- Sherine McEween: role
-- Emre Usun: role
-- Jessica Hernandez: role
+## Description
+Our application is about
+
+## Group 2 Collaborators
+- Seunghyeon Yeom: UX/UI Designer, Web Developer
+- Sherine McEween: Web Developer
+- Emre Usun: Graphic Designer
+- Jessica Hernandez: Graphic Designer
+
+## Details
+
+1. Page Details
+- Mobile-first web application
+
+2. Colour Scheme
+- #000000
+- #000000
+- #000000
+
+3. Softwares
+- Development
+- Design
 
 ## MIT License
 MIT License
