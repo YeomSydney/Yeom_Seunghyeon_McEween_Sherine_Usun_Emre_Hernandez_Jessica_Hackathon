@@ -1,0 +1,13 @@
+// start with imports (order is important)
+@import "./modules/_reset.scss";
+@import "./modules/_var.scss";
+
+// import mobile styles first
+@import "./modules/_default.scss";
+@import "./modules/_queries.scss";
+
+// component files next
+@import "./modules/_main.scss";
+
+// atomic files go here
+@import url('http://fonts.cdnfonts.com/css/ligurino-condensed');
