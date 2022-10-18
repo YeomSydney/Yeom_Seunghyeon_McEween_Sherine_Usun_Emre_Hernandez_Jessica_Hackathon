@@ -25,25 +25,24 @@ The basis of this assignment is to create an interactive application using 3D, v
 
 ## Application Details
 1. Screen Size (px)
-- Mobile: 
-- Tablet: 
-- PC: 
+    - Mobile: 
+    - Tablet: 
+    - PC: 
 
 2. References
-- Pinterest, Youtube,
-- Provided website (https://nest.com/ca/thermostats/nest-learning-thermostat/overview/)
+    - Pinterest, Youtube,
+    - Provided website (https://nest.com/ca/thermostats/nest-learning-thermostat/overview/)
 
 3. Programmes/Softwares
 
-a. Development
-- 
+    a. Development
 
-b. Design
-- Photoshops
-- Illustrator
-- XD
-- After Effects
-- Cinema 4D
+    b. Design
+    - Photoshops
+    - Illustrator
+    - XD
+    - After Effects
+    - Cinema 4D
 
 ## MIT License
 MIT License
