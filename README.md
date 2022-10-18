@@ -34,6 +34,7 @@ The basis of this assignment is to create an interactive application using 3D, v
 - Provided website (https://nest.com/ca/thermostats/nest-learning-thermostat/overview/)
 
 3. Programmes/Softwares
+
 a. Development
 - 
 
