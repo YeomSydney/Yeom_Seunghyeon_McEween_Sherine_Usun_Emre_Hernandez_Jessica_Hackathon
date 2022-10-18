@@ -13,10 +13,11 @@ The basis of this assignment is to create an interactive application using 3D, v
 ## Product Details
 1. Description
 
-HouseCom™ ThermoSecurity™ System is a fully digital, hardwired and wireless (WiFi, Bluetooth) enabled home personal and secure environment control system. All communications with the central system are accessible and controlled through the wall unit, product app. and the secured portal on the parent website. The HouseCom™ ThermoSecurity™ System App. is available on both iOS and Android devices. Whether you wish to adjust the temperature of your home from your Android or iPhone watch or access the home security system on your phone to check in on the house occupancy through the remote, portable cameras. You may wish to look for independent room temperatures, smoke and carbon monoxide status or just open windows and unlocked doors for your return home. All of this functionality and more are part of the capabilities of the HouseCom™ ThermoSecurity™ security and environment system.
+    HouseCom™ ThermoSecurity™ System is a fully digital, hardwired and wireless (WiFi, Bluetooth) enabled home personal and secure environment control system. All communications with the central system are accessible and controlled through the wall unit, product app. and the secured portal on the parent website. The HouseCom™ ThermoSecurity™ System App. is available on both iOS and Android devices. Whether you wish to adjust the temperature of your home from your Android or iPhone watch or access the home security system on your phone to check in on the house occupancy through the remote, portable cameras. You may wish to look for independent room temperatures, smoke and carbon monoxide status or just open windows and unlocked doors for your return home. All of this functionality and more are part of the capabilities of the HouseCom™ ThermoSecurity™ security and environment system.
 
 2. Tagline
-Protected peace & optimized comfort
+    
+    Protected peace & optimized comfort
 
 3. Features
 - Size: 
