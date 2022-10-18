@@ -1,0 +1,48 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: blue;
+    margin: 0 auto;
+    z-index: 100;
+}
+
+.nav {
+    height: 5rem;
+    align-items: center;
+}
+
+.nav_logo {
+    margin: 0 auto;
+    font-weight: 500;
+    transition: .4s;
+}
+
+.nav_menu {
+    position: fixed;
+    margin: 0 auto;
+    bottom: .5rem;
+    background-color: #333;
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+    padding: 1rem 2.25rem;
+    backdrop-filter: blur(10px);
+    align-items: center;
+}
+
+.nav_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.nav_link {
+    color: red;
+    font-size: 1.25rem;
+    padding: .4rem;
+    display: flex;
+    border-radius: 5rem;
+}
