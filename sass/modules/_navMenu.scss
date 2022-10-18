@@ -10,8 +10,6 @@
 
 .nav {
     height: 5rem;
-    display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -22,14 +20,15 @@
 }
 
 .nav_menu {
-    // position: fixed;
+    position: fixed;
     margin: 0 auto;
-    bottom: 1rem;
+    bottom: .5rem;
     background-color: #333;
-    width: 90%;
+    width: 100%;
     border-radius: 20px 20px 0 0;
     padding: 1rem 2.25rem;
     backdrop-filter: blur(10px);
+    align-items: center;
 }
 
 .nav_list {
@@ -37,6 +36,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
 }
 
 .nav_link {
@@ -46,8 +46,3 @@
     display: flex;
     border-radius: 5rem;
 }
-
-  /* Active link */
-// .active-link {
-//     background: linear-gradient(180deg, blue, #333);
-// }
