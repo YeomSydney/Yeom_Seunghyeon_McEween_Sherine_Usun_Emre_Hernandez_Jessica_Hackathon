@@ -1,19 +1,23 @@
 # Hackathon
-<img src="" height="130" width="auto">
+<img src="" height="130" width="auto" alt="Hackthon Group 4 Logo">
 
 ## Description
-Home personal and secure environment control system, HouseCom™ ThermoSecurity™ System.
+Home personal and secure environment control system, HouseCom™ ThermoSecurity™ System application.
 
-## Group 4 Collaborators
+## Collaborators (Group 4)
 - Seunghyeon Yeom: 3D Designer, Frontend Developer
-- Sherine McEween: Backend Developer
+- Sherine McEween: Frontend/Backend Developer
 - Emre Usun: UX/UI Designer
-- Jessica Hernandez: Graphic Designer (Logo, Brand)
+- Jessica Hernandez: Graphic Designer
 
-## Details
+## Product Details
+- Description
+    HouseCom™ ThermoSecurity™ System is a fully digital, hardwired and wireless (WiFi, Bluetooth) enabled home personal and secure environment control system. All communications with the central system are accessible and controlled through the wall unit, product app. and the secured portal on the parent website. The HouseCom™ ThermoSecurity™ System App. is available on both iOS and Android devices. Whether you wish to adjust the temperature of your home from your Android or iPhone watch or access the home security system on your phone to check in on the house occupancy through the remote, portable cameras. You may wish to look for independent room temperatures, smoke and carbon monoxide status or just open windows and unlocked doors for your return home. All of this functionality and more are part of the capabilities of the HouseCom™ ThermoSecurity™ security and environment system.
 
-1. Product Details
+- Features
 
+## Project Details
+1. 
 2. 
 
 3. Programmes/Softwares
@@ -21,9 +25,10 @@ a. Development
 - 
 
 b. Design
-- Photoshop
+- Photoshops
 - Illustrator
 - XD
+- After Effects
 - Cinema 4D
 
 ## MIT License
