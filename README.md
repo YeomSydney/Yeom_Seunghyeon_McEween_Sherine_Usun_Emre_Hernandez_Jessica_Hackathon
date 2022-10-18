@@ -1,27 +1,30 @@
 # Hackathon
+<img src="" height="130" width="auto">
 
 ## Description
-Our application is about
+Home personal and secure environment control system, HouseCom™ ThermoSecurity™ System.
 
-## Group 2 Collaborators
-- Seunghyeon Yeom: UX/UI Designer, Web Developer
-- Sherine McEween: Web Developer
-- Emre Usun: Graphic Designer
-- Jessica Hernandez: Graphic Designer
+## Group 4 Collaborators
+- Seunghyeon Yeom: 3D Designer, Frontend Developer
+- Sherine McEween: Backend Developer
+- Emre Usun: UX/UI Designer
+- Jessica Hernandez: Graphic Designer (Logo, Brand)
 
 ## Details
 
-1. Page Details
-- Mobile-first web application
+1. Product Details
 
-2. Colour Scheme
-- #000000
-- #000000
-- #000000
+2. 
 
-3. Softwares
-- Development
-- Design
+3. Programmes/Softwares
+a. Development
+- 
+
+b. Design
+- Photoshop
+- Illustrator
+- XD
+- Cinema 4D
 
 ## MIT License
 MIT License
