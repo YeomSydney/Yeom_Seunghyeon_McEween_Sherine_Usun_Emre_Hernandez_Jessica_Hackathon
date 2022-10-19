@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Oct 19, 2022 at 09:01 PM
+-- Generation Time: Oct 19, 2022 at 09:47 PM
 -- Server version: 10.4.10-MariaDB
 -- PHP Version: 7.4.0
 
@@ -64,11 +64,11 @@ CREATE TABLE IF NOT EXISTS `tbl_feature` (
 --
 
 INSERT INTO `tbl_feature` (`feature_id`, `feature_title`, `feature_img`, `feature_text`) VALUES
-(1, 'Compact', '', 'Sleek wireless capsule design which fits almost everywhere.'),
-(2, 'Smart', '', 'Controlled with Android and iOS from anywhere using smartphone, tablet or apple watch.'),
+(1, 'Compact', 'feather.svg', 'Sleek wireless capsule design which fits almost everywhere.'),
+(2, 'Smart', 'light_bulb.svg', 'Controlled with Android and iOS from anywhere using smartphone, tablet or apple watch.'),
 (3, 'Advanced', '', 'Updates current weather & time with independent room temperature, humidity and air quality sensing.'),
-(4, 'Secure', '', 'Home security check with smart lock and camera system.'),
-(5, 'Eco-friendly', '', 'Saves up energy by controlling heating and cooling levels.');
+(4, 'Secure', 'lock.svg', 'Home security check with smart lock and camera system.'),
+(5, 'Eco-friendly', 'leaf.svg', 'Saves up energy by controlling heating and cooling levels.');
 
 -- --------------------------------------------------------
 
