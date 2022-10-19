@@ -1,0 +1,24 @@
+Queries:
+
+1) To fetch data about the brand that goes in the header and about section
+
+SELECT * FROM `tbl_brand`
+
+2) To fetch data for the Feature section
+
+SELECT feature_title, feature_text FROM `tbl_feature`
+
+3) To fetch weather and temperature updates for Updates section
+
+SELECT * FROM `tbl_updates` WHERE updates_id = 1
+
+4) To fetch Product video
+
+SELECT media_name FROM `tbl_media` WHERE media_id = 1
+
+
+
+
+
+
+
