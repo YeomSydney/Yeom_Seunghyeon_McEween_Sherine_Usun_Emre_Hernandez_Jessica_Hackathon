@@ -1,0 +1,30 @@
+.slider {
+    width: 500px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.product_image{
+    width: 1500px;
+    background-color: black;
+    height: 300px;
+    clear: both;
+    position: relative;
+
+    -webkit-transition: left 2s;
+    -moz-transition: left 2s;
+    -o-transition: left 2s;
+    transition: left 2s;
+}
+
+.slide{
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
