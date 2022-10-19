@@ -1,5 +1,5 @@
 # Hackathon
-<img src="" height="130" width="auto" alt="Hackthon Group 4 Logo">
+<img src="images/thermosecureLogo.svg" height="130" width="auto" alt="Hackathon Group 4 Logo">
 
 ## Project Description
 The basis of this assignment is to create an interactive application using 3D, video, and still images. Design and develop an engaging experience for the end-user with which they can interact in a one-page mobile-first web application.
@@ -8,7 +8,7 @@ The basis of this assignment is to create an interactive application using 3D, v
 - Seunghyeon Yeom: 3D Designer, Frontend Developer
 - Sherine McEween: Frontend/Backend Developer
 - Emre Usun: UX/UI Designer
-- Jessica Hernandez: Graphic Designer
+- Jessica Hernandez: Graphic Designer, GUI Designer
 
 ## Product Details
 1. Description
@@ -16,31 +16,32 @@ The basis of this assignment is to create an interactive application using 3D, v
     HouseCom™ ThermoSecurity™ System is a fully digital, hardwired and wireless (WiFi, Bluetooth) enabled home personal and secure environment control system. All communications with the central system are accessible and controlled through the wall unit, product app. and the secured portal on the parent website. The HouseCom™ ThermoSecurity™ System App. is available on both iOS and Android devices. Whether you wish to adjust the temperature of your home from your Android or iPhone watch or access the home security system on your phone to check in on the house occupancy through the remote, portable cameras. You may wish to look for independent room temperatures, smoke and carbon monoxide status or just open windows and unlocked doors for your return home. All of this functionality and more are part of the capabilities of the HouseCom™ ThermoSecurity™ security and environment system.
 
 2. Tagline
-    
-    Protected peace & optimized comfort
+
+    Protected peace & optimized comfort.
 
 3. Features
-- Size: 
-- Functions: 
+- Size:
+- Functions:
 
 ## Application Details
 1. Screen Size (px)
-    - Mobile: 
-    - Tablet: 
-    - PC: 
+    - Mobile:
+    - Tablet:
+    - PC:
 
 2. References
     - Pinterest, Youtube,
-    - Provided website (https://nest.com/ca/thermostats/nest-learning-thermostat/overview/)
+    - Provided website: https://nest.com/ca/thermostats/nest-learning-thermostat/overview/
+    - Free mock-ups: https://pixelsurplus.com
 
-3. Programmes/Softwares
+3. Programs/Software
 
     a. Development
 
     b. Design
-    - Photoshops
+    - Photoshop
     - Illustrator
-    - XD
+    - Adobe XD
     - After Effects
     - Cinema 4D
 
