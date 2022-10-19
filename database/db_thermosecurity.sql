@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Oct 19, 2022 at 08:52 PM
+-- Generation Time: Oct 19, 2022 at 09:01 PM
 -- Server version: 10.4.10-MariaDB
 -- PHP Version: 7.4.0
 
@@ -82,7 +82,7 @@ CREATE TABLE IF NOT EXISTS `tbl_media` (
   `media_name` varchar(200) NOT NULL,
   `media_type` varchar(200) NOT NULL,
   PRIMARY KEY (`media_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=10 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=23 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `tbl_media`
@@ -97,7 +97,20 @@ INSERT INTO `tbl_media` (`media_id`, `media_name`, `media_type`) VALUES
 (6, 'phone_mock_up.jpg', 'image'),
 (7, 'tablet_mock_up.jpg', 'image'),
 (8, 'thermosecure_logo.svg', 'image'),
-(9, 'watch_mock_up.jpg', 'image');
+(9, 'watch_mock_up.jpg', 'image'),
+(10, 'ac.svg', 'image'),
+(11, 'cart.svg', 'image'),
+(12, 'face.svg', 'image'),
+(13, 'feather.svg\r\n', 'image'),
+(14, 'insta.svg', 'image'),
+(15, 'leaf.svg', 'image'),
+(16, 'light_bulb.svg', 'image'),
+(17, 'lock.svg', 'image'),
+(18, 'mini_logo.svg', 'image'),
+(19, 'rain_2.svg', 'image'),
+(20, 'rain.svg', 'image'),
+(21, 'twitter.svg', 'image'),
+(22, 'yt.svg', 'image');
 
 -- --------------------------------------------------------
 
