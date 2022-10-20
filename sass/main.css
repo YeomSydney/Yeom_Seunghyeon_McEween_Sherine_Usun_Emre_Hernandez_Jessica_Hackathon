@@ -87,6 +87,336 @@ section {
   margin-top: 3.2rem;
 }
 
+.nav_logo img {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 428px) and (max-width: 766px) {
+  p {
+    font-size: 1rem;
+  }
+  .about h2 {
+    font-size: 2.2rem;
+  }
+  .about p {
+    line-height: 1.2rem;
+  }
+  .feature h2 {
+    font-size: 2.2rem;
+  }
+  .feature_container,
+.weather_container,
+.temperature_container {
+    margin: 0 2rem;
+  }
+  .feature {
+    margin: 0 auto;
+  }
+  .feature h2 {
+    color: white;
+    filter: drop-shadow(0 3px 5px rgba(0, 0, 0, 0.0862745098));
+    margin-bottom: 1rem;
+  }
+  .feature_container,
+.weather_container,
+.temperature_container {
+    width: auto;
+    background-color: rgba(255, 255, 255, 0.4392156863);
+    border-radius: 20px;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.062745098);
+    font-size: 1rem;
+  }
+  .feature_container img {
+    width: 2.3rem;
+  }
+  .feature_box {
+    padding: 1.5rem;
+  }
+  .feature_1 {
+    padding-top: 2rem;
+  }
+  .feature_row {
+    display: flex;
+    flex-direction: row;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    margin: 0 auto;
+  }
+  .feature_row p {
+    margin: 0 auto;
+    padding-left: 2rem;
+  }
+  .feature_row img {
+    justify-content: left;
+  }
+  .feature_4 img {
+    width: 3rem;
+  }
+  .weather h2,
+.temperature h2 {
+    font-size: 1.875rem;
+    color: white;
+    filter: drop-shadow(0 3px 5px rgba(0, 0, 0, 0.0862745098));
+    margin-bottom: 1rem;
+  }
+  .weather_container {
+    color: white;
+    filter: drop-shadow(0 3px 3px rgba(0, 0, 0, 0.1882352941));
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 0;
+  }
+  .weather {
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+  }
+  .updates .weather_icon img {
+    width: 6rem;
+  }
+  .weather_text p {
+    padding-bottom: 0.4rem;
+  }
+  .weather_container .weather_h {
+    font-size: 1.5rem;
+  }
+  .weather_p {
+    font-size: 1rem;
+  }
+  .weather_forecast {
+    font-size: 1rem;
+  }
+  .forcast_icon img {
+    width: 2.2rem;
+    padding: 0.5rem 0;
+  }
+  .weather_icon,
+.weather_text,
+.weather_forecast {
+    padding: 1.875rem 1.3rem;
+  }
+  .temperature {
+    margin-top: 3.2rem;
+  }
+  .temperature_container {
+    position: relative;
+  }
+  .temperature_container p {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size: 5rem;
+  }
+  .temperature_container img {
+    padding: 3rem;
+  }
+  .temperature .tem_p {
+    font-size: 1rem;
+    padding: 0 2rem;
+    margin: 1rem;
+    line-height: 1.3rem;
+  }
+  .footer_logo {
+    display: none;
+  }
+}
+@media screen and (min-width: 767px) and (max-width: 1023px) {
+  p {
+    font-size: 1.2rem;
+    line-height: 3rem;
+  }
+  h2 {
+    font-size: 2.8rem;
+    padding-bottom: 1rem;
+  }
+  .updates {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 7rem 0;
+  }
+  .tem_p {
+    display: none;
+  }
+  h2,
+.about p,
+.feature_container,
+.updates {
+    margin: 0 2.5rem;
+  }
+  .feature_box {
+    padding: 2rem;
+  }
+  .weather {
+    margin-right: 3rem;
+  }
+  .temperature {
+    margin-left: 3rem;
+  }
+  .weather_text {
+    padding: 0 2rem;
+  }
+  .weather_container {
+    width: 18.75rem;
+    height: 18.75rem;
+    padding: 2rem;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .weather_icon img {
+    height: 6rem;
+  }
+  .weather_h {
+    font-size: 1.5rem;
+  }
+  .weather_p {
+    font-size: 1rem;
+    margin-top: -1rem;
+  }
+  .weather_forecast {
+    display: flex;
+    flex-direction: column;
+    padding: 0 0;
+    margin: 0 0;
+  }
+  .forcast_icon img {
+    width: 2.2rem;
+    height: auto;
+  }
+  .forcast_icon p {
+    display: none;
+  }
+  .degree_15 {
+    margin-top: -1.2rem;
+  }
+  .temperature_container img {
+    width: 20.6rem;
+    height: auto;
+    padding: 2rem;
+  }
+  form {
+    margin: 0 2.5rem;
+  }
+  .footer_logo img {
+    width: 13rem;
+    height: auto;
+    padding-bottom: 1.3rem;
+    cursor: pointer;
+  }
+  .footer p {
+    margin-bottom: 2.2rem;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .about {
+    width: 100%;
+  }
+  .about img {
+    width: 100%;
+  }
+  h2 {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  .about_content,
+.feature_container,
+.weather_container,
+.temperature_container {
+    margin: 0 3.5rem;
+  }
+  .feature_row {
+    padding: 1rem;
+  }
+  .feature_box {
+    margin: 0 8rem;
+    padding: 3rem 0;
+  }
+  .feature_row img {
+    width: 3rem;
+  }
+  .about_content p {
+    line-height: 1.6rem;
+  }
+  .weather,
+.temperature {
+    margin: 10rem 0;
+  }
+  .updates {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 1rem 0;
+  }
+  .weather {
+    width: 58rem;
+    height: auto;
+  }
+  .weather_icon {
+    width: 20rem;
+    height: auto;
+  }
+  .weather_icon,
+.weather_text,
+.weather_forecast {
+    padding: 2rem;
+  }
+  .weather_h {
+    font-size: 2.2rem;
+    padding-bottom: 1rem;
+  }
+  .weather_p {
+    padding-bottom: 0.7rem;
+    font-size: 1.2rem;
+  }
+  .forcast_temperature {
+    margin-bottom: 1rem;
+  }
+  .forcast_temperature p {
+    padding-bottom: 0.5rem;
+  }
+  .forcast_icon img {
+    width: 5rem;
+  }
+  .forcast_icon p {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    padding-top: 1rem;
+  }
+  .weather_container {
+    padding: 2rem;
+  }
+  .temperature_container {
+    width: 30rem;
+  }
+  .temperature_container img {
+    width: 23.5rem;
+    padding: 3rem;
+  }
+  .temperature p {
+    display: none;
+  }
+  form {
+    margin: 0 3rem;
+  }
+  .contactForm_div {
+    margin: 2rem 0;
+  }
+  .footer_logo {
+    padding: 0 0 2rem 0;
+  }
+  .footer_logo img {
+    width: 10rem;
+    height: auto;
+  }
+  .footer p {
+    padding-bottom: 1rem;
+  }
+}
 .about {
   margin: 10.2rem auto 7.2rem auto;
 }
@@ -96,10 +426,9 @@ section {
 }
 
 .about_content h2 {
-  font-size: 2.2rem;
   color: white;
   filter: drop-shadow(0 3px 5px rgba(0, 0, 0, 0.0862745098));
-  margin-top: 1rem;
+  margin-top: 3.2rem;
   margin-bottom: 1rem;
 }
 
@@ -136,7 +465,9 @@ section {
 
 .nav_menu {
   position: fixed;
-  margin: 0 auto;
+  justify-content: center;
+  justify-self: center;
+  margin: 0.1rem 0;
   bottom: 0.1rem;
   background-color: white;
   width: 100%;
@@ -197,10 +528,8 @@ section {
 }
 
 .feature h2 {
-  font-size: 2.2rem;
   color: white;
   filter: drop-shadow(0 3px 5px rgba(0, 0, 0, 0.0862745098));
-  margin-bottom: 1rem;
 }
 
 .feature_container,
@@ -210,16 +539,10 @@ section {
   background-color: rgba(255, 255, 255, 0.4392156863);
   border-radius: 20px;
   box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.062745098);
-  font-size: 1rem;
-  margin: 0 2rem;
 }
 
 .feature_container img {
   width: 2.3rem;
-}
-
-.feature_box {
-  padding: 1.5rem;
 }
 
 .feature_1 {
@@ -238,6 +561,7 @@ section {
 .feature_row p {
   margin: 0 auto;
   padding-left: 2rem;
+  line-height: 1.7rem;
 }
 
 .feature_row img {
@@ -246,11 +570,6 @@ section {
 
 .feature_4 img {
   width: 3rem;
-}
-
-.weather {
-  margin-top: 7rem;
-  margin-bottom: 7rem;
 }
 
 .weather h2,
@@ -268,63 +587,6 @@ section {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-}
-
-.updates .weather_icon img {
-  width: 6rem;
-}
-
-.weather_text p {
-  padding-bottom: 0.4rem;
-}
-
-.weather_container .weather_h {
-  font-size: 1.5rem;
-}
-
-.weather_p {
-  font-size: 1rem;
-}
-
-.weather_forecast {
-  font-size: 1rem;
-}
-
-.forcast_icon img {
-  width: 2.2rem;
-  padding: 0.5rem 0;
-}
-
-.weather_icon,
-.weather_text,
-.weather_forecast {
-  padding: 1.875rem 1.3rem;
-}
-
-.temperature {
-  margin-top: 3.2rem;
-}
-
-.temperature_container {
-  position: relative;
-}
-
-.temperature_container p {
-  position: absolute;
-  top: 50%;
-  left: 40%;
-  font-size: 5rem;
-}
-
-.temperature_container img {
-  padding: 3rem;
-}
-
-.temperature .tem_p {
-  font-size: 1rem;
-  padding: 0 2rem;
-  margin: 1rem;
-  line-height: 1.3rem;
 }
 
 .slider {
@@ -383,6 +645,27 @@ section {
   width: 1rem;
   border-radius: 3.1rem;
   background-color: #ffffff;
+  filter: drop-shadow(0 3px 3px rgba(0, 0, 0, 0.1254901961));
+  transition: all 0.2s ease-in;
+  cursor: pointer;
+}
+
+.price_btn {
+  height: 3rem;
+  width: 7.5rem;
+  border: none;
+  border-radius: 10rem;
+  background-color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  filter: drop-shadow(0 3px 3px rgba(0, 0, 0, 0.1254901961));
+  transition: all 0.2s ease-in;
+  cursor: pointer;
+}
+
+.price_btn:hover {
+  background-color: #293241;
+  color: white;
 }
 
 .contact {

@@ -58,6 +58,25 @@
     width: 1rem;
     border-radius: 3.1rem;
     background-color: #ffffff;
+    filter: drop-shadow(0 3px 3px #00000020);
+    transition: all .2s ease-in;
+    cursor: pointer;
 }
 
+.price_btn {
+    height: 3rem;
+    width: 7.5rem;
+    border: none;
+    border-radius: 10rem;
+    background-color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    filter: drop-shadow(0 3px 3px #00000020);
+    transition: all .2s ease-in;
+    cursor: pointer;
+}
 
+.price_btn:hover {
+    background-color: #293241;
+    color: white;
+}
