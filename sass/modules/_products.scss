@@ -1,3 +1,14 @@
+.products h2{
+    color: white;
+    filter: drop-shadow(0 3px 5px #00000016);
+    margin-top: 3.2rem;
+    margin-bottom: 1rem;
+}
+
+.product_video {
+    width: auto;
+}
+
 .slider {
     width: 766px;
     height: 100%;
@@ -79,4 +90,8 @@
 .price_btn:hover {
     background-color: #293241;
     color: white;
+}
+
+.product_description p {
+    padding: 0 2rem;
 }
