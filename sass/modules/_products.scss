@@ -1,7 +1,6 @@
 .slider {
-    width: 500px;
-    height: 300px;
-    background-color: aquamarine;
+    width: 766px;
+    height: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0px;
@@ -9,10 +8,10 @@
     overflow: hidden;
 }
 
-.product_image{
-    width: 1500px;
+.product_image {
+    width: 766px;
     background-color: black;
-    height: 300px;
+    height: 100%;
     clear: both;
     position: relative;
 
@@ -22,7 +21,7 @@
     transition: left 2s;
 }
 
-.slide{
+.slide {
     float: left;
     margin: 0px;
     padding: 0px;
@@ -34,23 +33,23 @@
 }
 
 #slide_2 :target ~ .product_image {
-    left: -500px;
+    left: -766px;
 }
 
 #slide_3 :target ~ .product_image {
-    left: -1000px;
+    left: -1532px;
 }
 
 #slide_4 :target ~ .product_image {
-    left: -1500px;
+    left: -2298px;
 }
 
 #slide_5 :target ~ .product_image {
-    left: -2000px;
+    left: -3064px;
 }
 
 #slide_6 :target ~ .product_image {
-    left: -2500px;
+    left: -3860px;
 }
 
 .slider_dots a {
