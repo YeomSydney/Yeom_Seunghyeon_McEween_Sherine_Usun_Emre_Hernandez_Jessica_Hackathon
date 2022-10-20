@@ -9,7 +9,9 @@
     margin-bottom: 1rem;
 }
 
-.feature_container {
+.feature_container,
+.weather_container,
+.temperature_container {
     width: auto;
     background-color: #ffffff70;
     border-radius: 20px;
@@ -50,4 +52,72 @@
 
 .feature_4 img {
     width: 3rem;
+}
+
+.weather {
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+}
+
+.weather h2,
+.temperature h2 {
+    font-size: 1.875rem;
+    color: white;
+    filter: drop-shadow(0 3px 5px #00000016);
+    margin-bottom: 1rem;
+}
+
+.weather_container {
+    color: white;
+    filter: drop-shadow(0 3px 3px #00000030);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.updates .weather_icon img {
+    width: 6rem;
+}
+
+.weather_text p {
+    padding-bottom: .4rem;
+}
+
+.weather_container .weather_h {
+    font-size: 1.5rem;
+}
+
+.weather_p {
+    font-size: 1rem;
+}
+
+.weather_forecast {
+    font-size: 1rem;
+}
+
+.forcast_icon img {
+    width: 2.2rem;
+    padding: .5rem 0;
+}
+
+.weather_icon,
+.weather_text,
+.weather_forecast {
+    padding: 1.875rem 1.3rem;
+}
+
+.temperature {
+    margin-top: 3.2rem;
+}
+
+.temperature_container img {
+    padding: 3rem;
+}
+
+.temperature .tem_p {
+    font-size: 1rem;
+    padding: 0 2rem;
+    margin: 1rem;
+    line-height: 1.3rem;
 }
