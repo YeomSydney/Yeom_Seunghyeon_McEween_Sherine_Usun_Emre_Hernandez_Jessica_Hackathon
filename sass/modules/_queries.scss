@@ -3,7 +3,7 @@
         font-size: 1rem;
     }
 
-    .about h2 {
+    .about h2, .products h2 {
         font-size: 2.2rem;
     }
 
@@ -155,6 +155,13 @@
         line-height: 1.3rem;
     }
 
+    .product_image img {
+        min-width: 428px;
+        max-width: 766px!important;
+        width: 100%!important;
+        height: auto;
+    }
+
     .footer_logo {
         display: none;
     }
@@ -166,7 +173,7 @@
         line-height: 3rem;
     }
 
-    h2 {
+    .products h2, h2 {
         font-size: 2.8rem;
         padding-bottom: 1rem;
     }
@@ -277,7 +284,7 @@
         width: 100%;
     }
 
-    h2 {
+    .products h2, h2 {
         font-size: 3rem;
         margin-bottom: 3rem;
     }
