@@ -28,3 +28,35 @@
     padding: 0px;
     position: relative;
 }
+
+#slide_1 :target ~ .product_image {
+    left: 0px;
+}
+
+#slide_2 :target ~ .product_image {
+    left: -500px;
+}
+
+#slide_3 :target ~ .product_image {
+    left: -1000px;
+}
+
+#slide_4 :target ~ .product_image {
+    left: -1500px;
+}
+
+#slide_5 :target ~ .product_image {
+    left: -2000px;
+}
+
+#slide_6 :target ~ .product_image {
+    left: -2500px;
+}
+
+.slider_dots a {
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+    border-radius: 3.1rem;
+    background-color: #ffffff;
+}
