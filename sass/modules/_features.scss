@@ -111,6 +111,17 @@
     margin-top: 3.2rem;
 }
 
+.temperature_container {
+    position: relative;
+}
+
+.temperature_container p {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size: 5rem;
+}
+
 .temperature_container img {
     padding: 3rem;
 }
