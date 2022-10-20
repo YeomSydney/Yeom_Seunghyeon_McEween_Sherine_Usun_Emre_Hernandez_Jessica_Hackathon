@@ -5,12 +5,13 @@
 // import mobile styles first
 @import "./modules/_default.scss";
 @import "./modules/_queries.scss";
-@import "./modules/_products.scss";
 
 // component files next
 @import "./modules/_main.scss";
 
 // atomic files go here
+@import "./modules/_about.scss";
 @import "./modules/_navMenu.scss";
 @import "./modules/_features.scss";
+@import "./modules/_products.scss";
 @import url('http://fonts.cdnfonts.com/css/ligurino-condensed');
