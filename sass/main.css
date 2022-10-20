@@ -589,6 +589,17 @@ section {
   align-items: center;
 }
 
+.products h2 {
+  color: white;
+  filter: drop-shadow(0 3px 5px rgba(0, 0, 0, 0.0862745098));
+  margin-top: 3.2rem;
+  margin-bottom: 1rem;
+}
+
+.product_video {
+  width: auto;
+}
+
 .slider {
   width: 766px;
   height: 100%;
@@ -666,6 +677,10 @@ section {
 .price_btn:hover {
   background-color: #293241;
   color: white;
+}
+
+.product_description p {
+  padding: 0 2rem;
 }
 
 .contact {
